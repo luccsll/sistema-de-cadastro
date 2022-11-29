@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos
+# Sistema de cadastro de CIREF
 
 > Status do projeto: Em desenvolvimento.
 
